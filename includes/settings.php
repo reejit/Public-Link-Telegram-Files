@@ -52,7 +52,7 @@ $fileFolder     =   'file';     # Save Other Files In Folder Name
 *   604800      =>      one week
 *   
 */
-$FilesDeleteAfter = 60;
+$FilesDeleteAfter = 604800;
 
 #\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
