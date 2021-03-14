@@ -5,15 +5,15 @@
 #===============================================================================
 
 /*  Database */
-define('HOST','localhost'); # Database host name
-define('DBNAME',''); # Database name
-define('DBUSERNAME',''); # Database username
-define('DBPASSWORD',''); # Database password
+define('HOST','mysql80-afe9.euw2.cloud.ametnes.com'); # Database host name
+define('DBNAME','Raina Lohar'); # Database name
+define('DBUSERNAME','hFwvCugdZU'); # Database username
+define('DBPASSWORD','gHqLbx4UPq2YVoY9HksF'); # Database password
 
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 /*  Telegram Bot API Key */
-define('API_KEY','');  # Enter bot api token
+define('API_KEY','1370150385:AAH36xDrK0aMeoIrDvfFQ6lAVUKzuVETWPE');  # Enter bot api token
 define('APP_URL','https://api.telegram.org/bot'.API_KEY);   ## Don't edit this line ##
 
 #===============================================================================
@@ -57,7 +57,7 @@ $FilesDeleteAfter = 604800;
 #\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
 /* lang */
-$lang = 'fa';
+$lang = 'en';
 
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
