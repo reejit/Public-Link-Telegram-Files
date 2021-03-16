@@ -5,10 +5,10 @@
 #===============================================================================
 
 /*  Database */
-define('HOST','mysql80-afe9.euw2.cloud.ametnes.com'); # Database host name
-define('DBNAME','Raina Lohar'); # Database name
-define('DBUSERNAME','hFwvCugdZU'); # Database username
-define('DBPASSWORD','gHqLbx4UPq2YVoY9HksF'); # Database password
+define('HOST','http://sql6.freemysqlhosting.net/'); # Database host name
+define('DBNAME','sql6399285'); # Database name
+define('DBUSERNAME','sql6399285'); # Database username
+define('DBPASSWORD','XJs69DA3JW'); # Database password
 
 #/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
