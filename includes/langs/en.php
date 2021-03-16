@@ -21,7 +21,7 @@
 $e = [
     'welcome' => "•┈┈••✾•🌿🌺🌿•✾••┈┈•
 
-Hi  <b>$fullName</b> welcome.
+Hi  <b>$firstName</b> welcome.
 
 Forward your files to me, for generate public links for your telegram files 😉
 
